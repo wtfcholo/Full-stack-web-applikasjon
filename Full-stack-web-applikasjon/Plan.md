@@ -15,7 +15,7 @@ Docker + Docker Compose
 Markdown (README.md) for dokumentasjon
 Git + Github
 
-8/12 desember - Modul 1 (database) 
+4-8/12 desember - Modul 1 (database) 
 Fullføre ER-diagram
 Lage database-tabeller (prducts, orders, order_items)
 Skrive SQL CREATE TABLE fil
